@@ -1,0 +1,39 @@
+id: ID4DD68F9
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:34:28.192823'
+last_modified: '2022-06-19T10:34:28.192835'
+parser: null
+source_metadata:
+  title: Hagiography of Sa skya bdag chen Blo gros rgyal mtshan (1444–1495); Lamdre
+    Lobshe, vol. kha, title no. 2
+  author: tshar chen blo gsal rgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-21); converted from external file, unrevised, spell-checked, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/380
+  bases:
+    2bfb:
+      title: Hagiography of Sa skya bdag chen Blo gros rgyal mtshan (1444–1495); Lamdre
+        Lobshe, vol. kha, title no. 2
+      order: 1
+      base_file: 2bfb.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
